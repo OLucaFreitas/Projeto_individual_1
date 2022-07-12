@@ -356,27 +356,27 @@ html, body {
 }
 
 #offer .offer-cards.offer-1 {
-    background: url(../images/offer-1.JPG);
+    background: url(./images/offer-1.JPG);
 }
 
 #offer .offer-cards.offer-2 {
-    background: url(../images/offer-2.JPG);
+    background: url(./images/offer-2.JPG);
 }
 
 #offer .offer-cards.offer-3 {
-    background: url(../images/offer-3.jpg);
+    background: url(./images/offer-3.jpg);
 }
 
 #offer .offer-cards.offer-4 {
-    background: url(../images/offer-4.jpg);
+    background: url(./images/offer-4.jpg);
 }
 
 #offer .offer-cards.offer-5 {
-    background: url(../images/offer-5.jpg);
+    background: url(./images/offer-5.jpg);
 }
 
 #offer .offer-cards.offer-6 {
-    background: url(../teste/images/offer-6.jpg);
+    background: url(./images/offer-6.jpg);
 }
 
 #offer .offer-cards .image {
